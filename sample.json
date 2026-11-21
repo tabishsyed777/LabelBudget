@@ -1,0 +1,31 @@
+{
+  "seeds": [
+    [
+      "rain cloud",
+      "weather"
+    ],
+    [
+      "bass melody",
+      "music"
+    ]
+  ],
+  "pool": [
+    [
+      "storm rain",
+      "weather"
+    ],
+    [
+      "bass solo",
+      "music"
+    ],
+    [
+      "cloud storm",
+      "weather"
+    ],
+    [
+      "solo melody",
+      "music"
+    ]
+  ],
+  "budget": 2
+}
